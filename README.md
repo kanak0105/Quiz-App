@@ -1,5 +1,5 @@
-# 🧠 Interactive Quiz Engine
-A sleek, responsive quiz application designed for a seamless user experience across all devices.
+# 🧠 Interactive Quiz App
+A sleek, responsive quiz application designed for a seamless user experience.
 
 ## ✨ Key Features
 
